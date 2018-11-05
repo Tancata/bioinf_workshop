@@ -1,4 +1,4 @@
-# bioinf_workshop
+# Bristol Bioinformatics Workshop: supplementary files
 Files for the Bristol Bioinformatics Workshop
 
 ## README
